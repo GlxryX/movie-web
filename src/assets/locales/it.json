@@ -1,0 +1,66 @@
+{
+  "global": {
+    "name": "movie-web"
+  },
+  "home": {
+    "bookmarks": {
+      "sectionTitle": "Segnalibri"
+    },
+    "continueWatching": {
+      "sectionTitle": "Continua a guardare"
+    },
+    "search": {
+      "allResults": "Ecco tutto ciò che abbiamo!",
+      "failed": "Impossibile trovare i media, riprova!",
+      "loading": "Caricamento...",
+      "noResults": "Non abbiamo trovato nulla!",
+      "placeholder": "Cosa vuoi guardare?",
+      "sectionTitle": "Risultati della ricerca"
+    }
+  },
+  "media": {
+    "episodeDisplay": "S{{season}} E{{episode}}",
+    "types": {
+      "movie": "Film",
+      "show": "Serie"
+    }
+  },
+  "navigation": {
+    "banner": {
+      "offline": "Controlla la tua connessione internet"
+    }
+  },
+  "notFound": {
+    "badge": "Non trovato",
+    "goHome": "Torna alla home",
+    "message": "Abbiamo cercato ovunque: sotto i bidoni, nell'armadio, dietro il proxy, ma alla fine non siamo riusciti a trovare la pagina che stai cercando.",
+    "title": "Impossibile trovare quella pagina"
+  },
+  "player": {
+    "back": {
+      "default": "Torna alla home",
+      "short": "Indietro"
+    },
+    "menus": {
+      "episodes": {
+        "button": "Episodi",
+        "loadingList": "Caricamento...",
+        "loadingTitle": "Caricamento..."
+      },
+      "sources": {
+        "title": "Fonti"
+      }
+    },
+    "metadata": {
+      "notFound": {
+        "badge": "Non trovato",
+        "homeButton": "Torna alla home",
+        "text": "Non siamo riusciti a trovare il media richiesto. È stato rimosso o hai manomesso l'URL.",
+        "title": "Impossibile trovare quel media."
+      }
+    },
+    "playbackError": {
+      "title": "Ops, qualcosa si è rotto!"
+    }
+  }
+}
